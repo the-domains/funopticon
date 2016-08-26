@@ -1,0 +1,14 @@
+layout_spectrum: 0.3388739
+typography_spectrum: 0.8515019
+color:
+  saturation: 0.03287059
+  lightness: 0.3344904
+  brandStrength: 0.6080518
+  rhythmicContrast: 0.1657179
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Funopticon
